@@ -1,0 +1,27 @@
+/* //!===>Example:addEventListener click method */
+
+body{
+    background-color: #111;
+    margin: 50px;
+    padding: 50px;
+    margin-top: 50px;
+    color: aqua;
+}
+button{
+    background-color: aqua;
+    color: black;
+    padding: 20px;
+    border: 5px solid red;
+    font-weight: bolder;
+}
+
+/* //! Session Task */
+/* //! Color a span/div element content when a user moves the mouse over the element. */
+
+div{
+    background-color: aqua;
+    color: black;
+    padding: 20px;
+    border: 5px solid red;
+    font-weight: bolder;
+} 
